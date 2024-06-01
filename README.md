@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  <a href="https://instagram.com/seamfisher" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="seamfi" />
  <a href="https://youtube.com/@feng-tech" target="_blank">
-  <img src="	https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="seamfi" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="seamfi" />
  </a> 
 </p>
 <br />
