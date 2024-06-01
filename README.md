@@ -43,16 +43,13 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://josephfisher.super.site" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="seamfi" />
+  <img src="https://img.shields.io/badge/Website-C49711?style=for-the-badge&logo=medium&logoColor=white" alt="seamfi" />
  </a>
  <a href="https://linkedin.com/in/josfisher" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="seamfi"/>
  </a>
- <!-- <a href="https://dev.to/seamfi" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="seamfi" />
- </a> -->
  <a href="https://instagram.com/seamfisher" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="seamfi" />
+  <img src="https://img.shields.io/badge/Instagram-008080?style=for-the-badge&logo=instagram&logoColor=white" alt="seamfi" />
  <a href="https://youtube.com/@feng-tech" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="seamfi" />
  </a> 
