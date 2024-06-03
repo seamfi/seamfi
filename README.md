@@ -1,38 +1,15 @@
 ### HELLO, THERE 
-<!--
-**seamfi/seamfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<h2 align="center">
-  Welcome to SE World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/seamfi"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
- -->
 
 <a href="https://komarev.com/ghpvc/?username=seamfi">
   <img align="right" src="https://komarev.com/ghpvc/?username=seamfi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 <br/>
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt;
                 <b><a href="https://josephfisher.super.site">JOSEPH FISHER</a></b>
         </samp>
-</h3>
+</h1>
 
 <p align="center"> 
   <samp>
@@ -108,4 +85,4 @@ Here are some ideas to get you started:
 </a>
 
 
-![JOSEPH's Graph](https://github-readme-activity-graph.vercel.app/graph?username=seamfi&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![JOSEPH's Graph](https://github-readme-activity-graph.vercel.app/graph?username=seamfi&custom_title=Joseph's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
