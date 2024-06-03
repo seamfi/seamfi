@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     </a>
-    「 <i>engineer</i> from <b>VIRGINIA</b> 」
+    「 <i>simple man looking to code</i> from <b>VIRGINIA</b> 」
   </samp>
 </p>
 
