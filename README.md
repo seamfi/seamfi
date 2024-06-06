@@ -34,7 +34,7 @@
 <br />
 
 <!-- About Section -->
- # Who am I?
+ ## Who am I?
 <p>
  I'm a Physics graduate working in Civil Engineering and creating programming projects.
 </p>
